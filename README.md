@@ -1,10 +1,3 @@
-Alright.
-You want a **real technical design document**, not vibes.
-
-Here it is.
-
----
-
 # 📘 Project Document
 
 ## Project Name: Daily AI-Powered Cyber News Content Engine
